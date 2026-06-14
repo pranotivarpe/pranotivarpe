@@ -61,7 +61,7 @@
 | [🛍️ ShopNest](https://github.com/pranotivarpe/ShopNest) | Full-stack e-commerce platform with payments | Django · React · Redux · Stripe |
 | [🎙️ AI Voice Note Summarizer](https://github.com/pranotivarpe/AI-Voice-Note-Summarizer) | Record voice notes, auto-transcribe & summarize with AI | Node.js · React · AssemblyAI · OpenRouter |
 | [📍 VibeFinder](https://github.com/pranotivarpe/VibeFinder) | Discover nearby places based on your mood/vibe | React · Leaflet · OpenStreetMap |
-| [🛒 EShop](https://github.com/pranotivarpe/ecommerce) | Spring Boot + React e-commerce with Spring Security | Spring Boot · React · MySQL · Stripe |
+| [🛒 EShop](https://github.com/pranotivarpe/EShop-SpringBoot-React) | Spring Boot + React e-commerce with Spring Security | Spring Boot · React · MySQL · Stripe |
 | [🤖 AI Chatbot](https://github.com/pranotivarpe/chatbot) | Conversational AI chatbot with persistent history | Python · Flask · OpenAI · MySQL |
 | [🏛️ ClubConnect](https://github.com/pranotivarpe/clubconnect) | College club management portal | PHP · MySQL · TailwindCSS |
 
